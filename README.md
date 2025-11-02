@@ -28,7 +28,7 @@ Easily create, manage, and delete your notes — all in a clean dark gradient UI
 
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/quicknotes-react-app.git
+git clone https://github.com/Harshitshrivas/quicknotes-react-app.git
 ```
 ```bash
 # Move into the folder
